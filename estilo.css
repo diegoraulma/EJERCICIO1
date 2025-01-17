@@ -21,3 +21,10 @@ header{
     text-align: center;
     margin: 20px 0;
 }
+footer{
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    margin: 20px 0;
+}
